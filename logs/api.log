@@ -1,0 +1,166 @@
+13-04-2021 01:29:24.327 [Gauge] [INFO] Watching directory: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs
+13-04-2021 01:29:24.329 [Gauge] [DEBUG] Found 1 files
+13-04-2021 01:29:24.337 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-04-2021 01:29:24.338 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-04-2021 01:29:24.338 [Gauge] [DEBUG] Adding specs from C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 01:29:24.338 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-04-2021 01:29:24.338 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58502
+13-04-2021 01:29:26.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <key> Akbank Home Page"}
+13-04-2021 01:29:26.304 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <key> Akbank Home Page"  parameters:"key"}}
+13-04-2021 01:29:26.315 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Scroll down to the bottom of the page"}
+13-04-2021 01:29:26.316 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Scroll down to the bottom of the page"  parameterizedStepValue:"Scroll down to the bottom of the page"}}
+13-04-2021 01:29:26.328 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click on 'Kredi Hesaplama'"}
+13-04-2021 01:29:26.328 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click on 'Kredi Hesaplama'"  parameterizedStepValue:"Click on 'Kredi Hesaplama'"}}
+13-04-2021 01:29:42.187 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.188 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.275 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.276 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.276 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.288 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.288 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.368 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.368 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.368 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.368 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.414 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.414 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.415 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.415 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.506 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.507 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:42.507 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:42.507 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.045 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.090 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.091 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.094 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.094 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.165 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.165 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.165 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.165 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.328 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.328 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:46.329 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:46.329 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:48.133 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+13-04-2021 01:29:48.134 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+13-04-2021 01:29:48.134 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+13-04-2021 01:29:48.135 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+13-04-2021 01:29:51.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"key\" Akbank Home Page"}
+13-04-2021 01:29:51.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <key> Akbank Home Page"  parameters:"key"}}
+13-04-2021 01:29:55.752 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:29:55.752 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:29:56.627 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+13-04-2021 01:29:56.627 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+13-04-2021 01:29:56.628 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+13-04-2021 01:29:56.628 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+13-04-2021 01:29:59.331 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 01:29:59.335 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 01:30:01.421 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:30:01.424 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:30:02.443 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+13-04-2021 01:30:02.443 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <key> Akbank Home Page"  parameters:"key"}  allSteps:{stepValue:"Scroll down to the bottom of the page"  parameterizedStepValue:"Scroll down to the bottom of the page"}}
+13-04-2021 01:30:02.445 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+13-04-2021 01:30:02.445 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+13-04-2021 01:30:07.897 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+13-04-2021 01:30:07.897 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+13-04-2021 01:30:18.495 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+13-04-2021 01:30:18.495 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <key> Akbank Home Page"  parameters:"key"}  allSteps:{stepValue:"Scroll down to the bottom of the page"  parameterizedStepValue:"Scroll down to the bottom of the page"}}
+13-04-2021 01:30:18.497 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+13-04-2021 01:30:18.497 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+13-04-2021 01:30:25.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www\" Akbank Home Page"}
+13-04-2021 01:30:25.782 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www> Akbank Home Page"  parameters:"www"}}
+13-04-2021 01:30:26.108 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.\" Akbank Home Page"}
+13-04-2021 01:30:26.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.> Akbank Home Page"  parameters:"www."}}
+13-04-2021 01:30:27.259 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.ak\" Akbank Home Page"}
+13-04-2021 01:30:27.260 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.ak> Akbank Home Page"  parameters:"www.ak"}}
+13-04-2021 01:30:27.642 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.akban\" Akbank Home Page"}
+13-04-2021 01:30:27.642 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.akban> Akbank Home Page"  parameters:"www.akban"}}
+13-04-2021 01:30:27.651 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.akban\" Akbank Home Page"}
+13-04-2021 01:30:27.651 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.akban> Akbank Home Page"  parameters:"www.akban"}}
+13-04-2021 01:30:28.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.akbank\" Akbank Home Page"}
+13-04-2021 01:30:28.066 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.akbank> Akbank Home Page"  parameters:"www.akbank"}}
+13-04-2021 01:30:28.067 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.akbank\" Akbank Home Page"}
+13-04-2021 01:30:28.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.akbank> Akbank Home Page"  parameters:"www.akbank"}}
+13-04-2021 01:30:28.941 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:28.941 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.akbank.com> Akbank Home Page"  parameters:"www.akbank.com"}}
+13-04-2021 01:30:28.948 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"www.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:28.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <www.akbank.com> Akbank Home Page"  parameters:"www.akbank.com"}}
+13-04-2021 01:30:31.551 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 01:30:31.557 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 01:30:54.835 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"httpwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:54.835 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <httpwww.akbank.com> Akbank Home Page"  parameters:"httpwww.akbank.com"}}
+13-04-2021 01:30:54.837 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"httpwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:54.837 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <httpwww.akbank.com> Akbank Home Page"  parameters:"httpwww.akbank.com"}}
+13-04-2021 01:30:55.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"https:www.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:55.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <https:www.akbank.com> Akbank Home Page"  parameters:"https:www.akbank.com"}}
+13-04-2021 01:30:55.262 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"https:www.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:55.266 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <https:www.akbank.com> Akbank Home Page"  parameters:"https:www.akbank.com"}}
+13-04-2021 01:30:56.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"htwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:56.395 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <htwww.akbank.com> Akbank Home Page"  parameters:"htwww.akbank.com"}}
+13-04-2021 01:30:56.398 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"htwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:56.398 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <htwww.akbank.com> Akbank Home Page"  parameters:"htwww.akbank.com"}}
+13-04-2021 01:30:56.710 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"hwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:56.710 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <hwww.akbank.com> Akbank Home Page"  parameters:"hwww.akbank.com"}}
+13-04-2021 01:30:56.714 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"hwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:30:56.714 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <hwww.akbank.com> Akbank Home Page"  parameters:"hwww.akbank.com"}}
+13-04-2021 01:31:43.560 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"htttwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:31:43.561 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <htttwww.akbank.com> Akbank Home Page"  parameters:"htttwww.akbank.com"}}
+13-04-2021 01:31:44.978 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"httwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:31:44.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <httwww.akbank.com> Akbank Home Page"  parameters:"httwww.akbank.com"}}
+13-04-2021 01:31:44.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"httwww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:31:44.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <httwww.akbank.com> Akbank Home Page"  parameters:"httwww.akbank.com"}}
+13-04-2021 01:31:45.994 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"httpswww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:31:45.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <httpswww.akbank.com> Akbank Home Page"  parameters:"httpswww.akbank.com"}}
+13-04-2021 01:31:45.996 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"httpswww.akbank.com\" Akbank Home Page"}
+13-04-2021 01:31:45.996 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <httpswww.akbank.com> Akbank Home Page"  parameters:"httpswww.akbank.com"}}
+13-04-2021 01:31:48.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"https://www.akbank.com\" Akbank Home Page"}
+13-04-2021 01:31:48.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <https://www.akbank.com> Akbank Home Page"  parameters:"https://www.akbank.com"}}
+13-04-2021 01:31:48.173 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"https://www.akbank.com\" Akbank Home Page"}
+13-04-2021 01:31:48.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} Akbank Home Page"  parameterizedStepValue:"Enter <https://www.akbank.com> Akbank Home Page"  parameters:"https://www.akbank.com"}}
+13-04-2021 01:31:52.217 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 01:31:52.220 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 02:29:05.920 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 02:29:05.922 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 02:29:30.796 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"50000\"TL in 'TUTAR' field"}
+13-04-2021 02:29:30.796 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {}TL in 'TUTAR' field"  parameterizedStepValue:"Enter <50000>TL in 'TUTAR' field"  parameters:"50000"}}
+13-04-2021 02:29:30.813 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Choose \"SİGORTASIZ\" in the button"}
+13-04-2021 02:29:30.814 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Choose {} in the button"  parameterizedStepValue:"Choose <SİGORTASIZ> in the button"  parameters:"SİGORTASIZ"}}
+13-04-2021 02:29:30.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Scroll down on the 'Ödeme Planı' page until 20th is seen"}
+13-04-2021 02:29:30.909 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Scroll down on the 'Ödeme Planı' page until 20th is seen"  parameterizedStepValue:"Scroll down on the 'Ödeme Planı' page until 20th is seen"}}
+13-04-2021 02:29:31.220 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set VADE as \"20AY\" in the bar"}
+13-04-2021 02:29:31.220 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set VADE as {} in the bar"  parameterizedStepValue:"Set VADE as <20AY> in the bar"  parameters:"20AY"}}
+13-04-2021 02:29:31.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'Hesaplama Detayları'"}
+13-04-2021 02:29:31.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'Hesaplama Detayları'"  parameterizedStepValue:"Click 'Hesaplama Detayları'"}}
+13-04-2021 02:29:31.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check \"Masraf ve Maliyet Oranları\" is opened"}
+13-04-2021 02:29:31.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check {} is opened"  parameterizedStepValue:"Check <Masraf ve Maliyet Oranları> is opened"  parameters:"Masraf ve Maliyet Oranları"}}
+13-04-2021 02:29:31.447 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'Ödeme Planı'"}
+13-04-2021 02:29:31.447 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'Ödeme Planı'"  parameterizedStepValue:"Click 'Ödeme Planı'"}}
+13-04-2021 02:29:31.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check \"Ödeme Planı\" is opened"}
+13-04-2021 02:29:31.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check {} is opened"  parameterizedStepValue:"Check <Ödeme Planı> is opened"  parameters:"Ödeme Planı"}}
+13-04-2021 02:29:36.953 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 02:29:36.957 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 02:33:05.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <key>TL in 'TUTAR' field"}
+13-04-2021 02:33:05.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {}TL in 'TUTAR' field"  parameterizedStepValue:"Enter <key>TL in 'TUTAR' field"  parameters:"key"}}
+13-04-2021 02:33:05.048 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Choose <key> in the button"}
+13-04-2021 02:33:05.048 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Choose {} in the button"  parameterizedStepValue:"Choose <key> in the button"  parameters:"key"}}
+13-04-2021 02:33:05.066 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Set VADE as <key> in the bar"}
+13-04-2021 02:33:05.066 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Set VADE as {} in the bar"  parameterizedStepValue:"Set VADE as <key> in the bar"  parameters:"key"}}
+13-04-2021 02:38:07.523 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check <key> is opened"}
+13-04-2021 02:38:07.524 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check {} is opened"  parameterizedStepValue:"Check <key> is opened"  parameters:"key"}}
+13-04-2021 02:40:46.888 [Gauge] [INFO] Spec file removed: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\example.spec
+13-04-2021 02:40:46.888 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\akbankCase.spec
+13-04-2021 02:40:46.890 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\UIAutomationProject\specs\akbankCase.spec
